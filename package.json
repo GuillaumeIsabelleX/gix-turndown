@@ -1,8 +1,8 @@
 {
-  "name": "turndown",
+  "name": "gix-turndown",
   "description": "A library that converts HTML to Markdown",
   "version": "6.0.0",
-  "author": "Dom Christie",
+  "author": "Dom Christie,Jean-GUillaume Isabelle(dist)",
   "main": "lib/turndown.cjs.js",
   "module": "lib/turndown.es.js",
   "jsnext:main": "lib/turndown.es.js",
@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/domchristie/turndown.git"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-turndown.git"
   },
   "scripts": {
     "build": "npm run build-cjs && npm run build-es && npm run build-umd && npm run build-iife",
